@@ -28,7 +28,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 ​	7、词汇云图
 
-![项目效果](D:\研究生生活\前端学习\图像可视化\imoc-visualization\src\assets\imgs\项目效果.png)
+![项目效果](\src\assets\imgs\项目效果.png)
 
 ## 3、项目简介
     使用vite+tailwindcss构建大屏可视化项目，通过echarts完成了大屏可视化功能。在项目中每一个图标都是一个单独的组件。
