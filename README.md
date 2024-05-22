@@ -31,6 +31,6 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ![项目效果](src/assets/imgs/项目效果.png)
 
 ## 3、项目简介
-    使用vite+tailwindcss构建大屏可视化项目，通过echarts完成了大屏可视化功能。在项目中每一个图标都是一个单独的组件。
+    使用vite+tailwindcss构建大屏可视化项目，通过echarts完成了大屏可视化功能。在项目中每一个图表都是一个单独的组件。
     项目来源：B站：程序员Sunday；资源链接:https://github.com/lgd8981289/imooc-visualization
     数据集：https://api.imooc-web.lgdsunday.club/api
